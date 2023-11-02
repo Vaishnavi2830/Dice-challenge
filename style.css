@@ -1,0 +1,31 @@
+.container{
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+
+.dice{
+    text-align: center;
+    display: inline-block;
+}
+
+body{
+    background-color: black;
+}
+
+h1{
+    margin: 30px;
+    font-size: 90px;
+    color: rgb(199, 143, 143);
+    font-family: 'Cinzel', serif;
+    
+}
+p{
+    font-size: 30pt;
+    color: rgb(167, 94, 138);
+    font-family: 'Caveat', cursive;
+    font-family: 'Dancing Script', cursive;
+}
+img{
+    width: 80%;
+}
